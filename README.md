@@ -12,3 +12,4 @@
 2021 JunctionX-Seoul - 본선 진출   
 2021 경기도 온라인 메이커 경진대회 - 우수상   
 2021 위믹스 블록체인 해커톤 - 본선 진출   
+2022 GDG Summer Hackathon - ~ing

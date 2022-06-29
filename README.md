@@ -1,7 +1,5 @@
 ### 송휘의 깃헙(●'◡'●)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=songhwee1)](https://github.com/anuraghazra/github-readme-stats)
-
 인하공업전문대학 컴퓨터정보과 35대 부학회장  
 인하공업전문대학 컴퓨터정보과 36대 학회장  
 인하공업전문대학 학생자치운영위원회(총학생회) 복지부장  

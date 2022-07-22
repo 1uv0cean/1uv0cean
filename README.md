@@ -17,7 +17,6 @@
 
 ~ing   
 MedGo BE developer   
-제 10회 K-Hackathon   
 제 9회 소프트웨어 개발보안 경진대회   
 제 5회 국민은행 소프트웨어 경진대회   
 제 16회 공개SW 개발자대회

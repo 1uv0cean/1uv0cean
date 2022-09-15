@@ -18,5 +18,4 @@
 2022 서울시 IoT 공공도시데이터 활용 해커톤 - 본선 진출  
    
 ~ing   
-MedGo BE developer   
-제 5회 KB국민은행 소프트웨어 경진대회
+MedGo BE developer

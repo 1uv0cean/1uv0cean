@@ -19,7 +19,7 @@
 - **2022 서울시 IoT 공공도시데이터 활용 해커톤** - 본선 진출
 
 ## 💻
-- **(주)메드고** - Full Stack Engineer
+- **(주)메드고** - Full Stack Engineer
 
 ---
 ### 

@@ -18,6 +18,7 @@
 - **2021 위믹스 블록체인 해커톤** - 본선 진출
 - **2022 서울시 IoT 공공도시데이터 활용 해커톤** - 본선 진출
 
+---
 ### 
 - 📧 Email: [songhwee1@naver.com](mailto:songhwee1@naver.com)
 - 🌐 Website: [1uv0cean.oopy.io](https://1uv0cean.oopy.io)

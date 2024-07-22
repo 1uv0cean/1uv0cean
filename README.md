@@ -14,7 +14,6 @@
 ---
 ### 
 - 📧 Email: [songhwee1@naver.com](mailto:songhwee1@naver.com)
-- 🌐 Website: [1uv0cean.oopy.io](https://1uv0cean.oopy.io)
 - 📞 Phone: +82-10-5301-2022
 
 ---

@@ -1,3 +1,12 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/1uv0cean"
+  width="600"
+  height="300"
+/>
+</a>
+
+---
 ## 👨‍🎓
 - 인하공업전문대학 컴퓨터정보과
   - **제 35대 부학회장**
@@ -16,14 +25,7 @@
 - 📧 Email: [songhwee1@naver.com](mailto:songhwee1@naver.com)
 - 📞 Phone: +82-10-5301-2022
 
----
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/1uv0cean"
-  width="1000"
-  height="300"
-/>
-</a>
+
 
 ---
 ![](./profile-3d-contrib/profile-green-animate.svg)

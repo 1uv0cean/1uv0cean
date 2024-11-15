@@ -17,4 +17,13 @@
 - 📞 Phone: +82-10-5301-2022
 
 ---
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/1uv0cean"
+  width="1000"
+  height="300"
+/>
+</a>
+
+---
 ![](./profile-3d-contrib/profile-green-animate.svg)

@@ -41,15 +41,4 @@
 - 📞 Phone: +82-10-5301-2022
 
 ---
-<p align="center">
-  <a href="https://github.com/1uv0cean">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=1uv0cean&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=1uv0cean&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=1uv0cean&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-
----
 ![](./profile-3d-contrib/profile-green-animate.svg)

@@ -39,6 +39,3 @@
 ### 
 - 📧 Email: [songhwee1@naver.com](mailto:songhwee1@naver.com)
 - 📞 Phone: +82-10-5301-2022
-
----
-![](./profile-3d-contrib/profile-green-animate.svg)

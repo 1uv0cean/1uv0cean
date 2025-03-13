@@ -6,36 +6,48 @@
 />
 </a>
 
----
-## 👨‍🎓
-**2023.03 ~ 2025.02**
-- 한양대학교 인공지능융합학과
-  - 인공지능석사
- 
-**2022.03 ~ 2023.02**
-- 인하공업전문대학 컴퓨터정보공학과
+⸻
 
-**2017.03 ~ 2022.02**
-- 인하공업전문대학 컴퓨터정보과
-  - 제 35대 부학회장
-  - 제 36대 학회장
-  - 학생자치운영위원회 복지부장
+🎓 Education
 
-## 🏆
-**2024**
-- **제 1회 DB 이노베이션챌린지** - 최우수상
+Master’s Degree in Artificial Intelligence
 
-**2022**
-- **제 9회 소프트웨어 개발보안 경진대회** - 대상(행정안전부 장관상)
+📅 March 2023 – February 2025
+🏫 Hanyang University, Department of Applied Artificial Intelligence
 
-**2021**
-- **제 1회 경기도 온라인 메이커 경진대회** - 우수상
-  
-**2019**
-- **제 7회 K-Hackathon** - 장려상(소프트웨어교육혁신센터 이사장상)
-- **제 6회 소프트웨어 개발보안 경진대회** - 장려상(한국인터넷진흥원장상)
+Bachelor’s Degree in Computer Information Engineering
 
----
-### 
-- 📧 Email: [songhwee1@naver.com](mailto:songhwee1@naver.com)
+📅 March 2022 – February 2023
+🏫 Inha Technical College
+
+Associate’s Degree in Computer Science
+
+📅 March 2017 – February 2022
+🏫 Inha Technical College
+	•	35th Vice President of the Academic Society
+	•	36th President of the Academic Society
+	•	Head of the Welfare Department, Student Autonomy Committee
+
+⸻
+
+🏆 Awards & Achievements
+
+2024
+	•	🥇 1st DB Innovation Challenge – Grand Prize
+
+2022
+	•	🏆 9th Software Security Development Competition – Grand Prize (Awarded by the Ministry of the Interior and Safety)
+
+2021
+	•	🥈 1st Gyeonggi Online Maker Competition – Excellence Award
+
+2019
+	•	🥉 7th K-Hackathon – Encouragement Award (Awarded by the Software Education Innovation Center)
+	•	🥉 6th Software Security Development Competition – Encouragement Award (Awarded by the Korea Internet & Security Agency)
+
+⸻
+
+📬 Contact
+
+- 📧 Email: [songhwee1@gmail.com](mailto:songhwee1@gmail.com)
 - 📞 Phone: +82-10-5301-2022

@@ -14,13 +14,13 @@
 📅 **March 2023 – February 2025**  
 🏫 **Hanyang University, Department of Applied Artificial Intelligence**  
 
-### **Bachelor's Degree in Computer Information Engineering**  
+### **Bachelor's Degree**  
 📅 **March 2022 – February 2023**  
-🏫 **Inha Technical College**  
+🏫 **Inha Technical College, Department of Computer Science and Engineering**  
 
-### **Associate's Degree in Computer Science**  
+### **Associate's Degree**  
 📅 **March 2017 – February 2022**  
-🏫 **Inha Technical College**  
+🏫 **Inha Technical College, Department of Computer Science and Engineering**  
 - **35th Vice President of the Academic Society**  
 - **36th President of the Academic Society**  
 - **Head of the Welfare Department, Student Autonomy Committee**  

@@ -43,7 +43,8 @@
 ---
 
 ## 🔑 Business
-### [불개미 키우기](https://www.bullant.io)
+### [Fwd Link](https://fwdlink.io)
+### [불개미 키우기](https://bullant.io)
 
 ---
 

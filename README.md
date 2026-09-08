@@ -43,7 +43,6 @@
 ---
 
 ## 🔑 Business
-### [Signal Pro](https://www.signalpro.live)
 ### [불개미 키우기](https://www.bullant.io)
 
 ---

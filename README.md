@@ -4,7 +4,7 @@
 
 I'm a software engineer with a Master's degree in Artificial Intelligence, interested in building practical software products that solve real-world problems.
 
-My work spans **web applications, backend systems, AI, cloud infrastructure, and SaaS products** — from designing systems and databases to deploying and operating production services.
+My work spans **web applications, backend systems, AI, SI, cloud infrastructure, and SaaS products** — from designing systems and databases to deploying and operating production services.
 
 I also build and operate independent products through **Hyerok Infotech**.
 
